@@ -375,8 +375,12 @@ background-color: #188ce8;
     display: flex;
     justify-content: center ;
     list-style: none;
-    margin-left: 32px;
     margin-right: 32px;
+    
+}
+.social-list-footer {
+    display: flex;
+    list-style: none;
     
 }
 
